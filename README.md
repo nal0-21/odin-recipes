@@ -1,1 +1,1 @@
-# odin-recipes
+Here I want to showcase what I have learned so far with HTML. Building an simple site with some recipes will help better understand and use the knowledge.
